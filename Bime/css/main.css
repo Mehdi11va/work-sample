@@ -1,0 +1,14 @@
+@import "normalize.css";
+
+ul, li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+#main-header .active a {
+ transition:0.5s;
+  color: #00adb5!important;
+}
+
